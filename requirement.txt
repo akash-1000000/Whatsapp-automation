@@ -1,0 +1,7 @@
+-python 3.6.9
+
+-selenium module
+
+-geckodriver 0.29.1
+
+-Google Chrome or Firefox browser
